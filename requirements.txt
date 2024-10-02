@@ -1,0 +1,6 @@
+openai
+tiktoken
+tqdm
+PyMuPDF
+PyPDF2
+reportlab
