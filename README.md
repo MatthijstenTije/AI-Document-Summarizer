@@ -1,7 +1,5 @@
 # PDF Summarizer
 
-
-
 ## Table of Contents
 
 - [PDF Summarizer](#pdf-summarizer)
@@ -41,6 +39,10 @@ The code is based on the OpenAI Cookbook example ["Summarizing long documents"](
 - Python 3.7 or higher
 - An OpenAI API key (you can obtain one by signing up at [OpenAI](https://platform.openai.com/signup))
 
+## PDF Files 
+
+Add your PDF-files to the input folder. 
+
 ## Installation and Setup
 
 1. **Clone the Repository:**
@@ -48,7 +50,8 @@ The code is based on the OpenAI Cookbook example ["Summarizing long documents"](
    ```bash
    git clone https://github.com/yourusername/your_project.git
    cd your_project
-
+   ```
+   
 ## Setup
 
 1. **Clone the Repository:**
